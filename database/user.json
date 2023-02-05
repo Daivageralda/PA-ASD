@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "Rahmad Sentosa",
+        "email": "mamad@gmail.com",
+        "alamat": "Jalan Kelengkeng No. 31",
+        "phone": "081298435426",
+        "gender": "m",
+        "username": "thisismamad",
+        "password": "mamad22"
+    },
+    {
+        "nama": "Dhiya Syauqi",
+        "email": "syauqi@gmail.com",
+        "alamat": "Jalan Batuah No. 31",
+        "phone": "081265234132",
+        "gender": "m",
+        "username": "dhiyasyauqi",
+        "password": "dhiya93"
+    },
+    {
+        "nama": "daiva",
+        "email": "daiva@gmail.com",
+        "address": "jalan ulin",
+        "phone": "08976543642",
+        "gender": "m",
+        "username": "hanzz",
+        "password": "hanzz"
+    },
+    {
+        "nama": "Raihan",
+        "email": "daivageralda@gmail.com",
+        "address": "Jalan Ulin",
+        "phone": "089628270851",
+        "gender": "m",
+        "username": "hanzz",
+        "password": "hanzz357"
+    }
+]

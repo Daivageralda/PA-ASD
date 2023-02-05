@@ -1,0 +1,44 @@
+[
+    {
+        "kode_barang": "zuc0",
+        "nama_barang": "Air Conditioner LG",
+        "kategori": "Pendingin Udara",
+        "harga": 4000000,
+        "stok": 3
+    },
+    {
+        "kode_barang": "bdre",
+        "nama_barang": "Air Purifier Maspion",
+        "kategori": "Elektronik",
+        "harga": 5000000,
+        "stok": 2
+    },
+    {
+        "kode_barang": "2sax",
+        "nama_barang": "Air Purifier Sharp",
+        "kategori": "Elektronik",
+        "harga": 5000000,
+        "stok": 2
+    },
+    {
+        "kode_barang": "qzqx",
+        "nama_barang": "Air Purifier Xiaomi",
+        "kategori": "Elektronik",
+        "harga": 5000000,
+        "stok": 2
+    },
+    {
+        "kode_barang": "shz0",
+        "nama_barang": "Kipas Angin Maspion",
+        "kategori": "Udara",
+        "harga": 500000,
+        "stok": 10
+    },
+    {
+        "kode_barang": "v7xz",
+        "nama_barang": "Dispenser Uchida",
+        "kategori": "Penampung Air",
+        "harga": 345000,
+        "stok": 12
+    }
+]

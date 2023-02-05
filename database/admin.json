@@ -1,0 +1,20 @@
+[
+    {
+        "name": "administrator01",
+        "email": "admin01@gmail.com",
+        "address": "Jalan Ulin No. 21",
+        "phone": "08962827051",
+        "gender": "f",
+        "username": "admin01",
+        "password": "admin01"
+    },
+    {
+        "name": "Raihan Daiva Geralda",
+        "email": "daivageralda831@gmail.com",
+        "address": "Jalan Ulin No. 90",
+        "phone": "081263027037",
+        "gender": "m",
+        "username": "daivageralda",
+        "password": "hanzz357"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "tgl_pembelian": "Thu Apr 28 14:49:47 2022",
+        "nama_pembeli": "Rahmad Sentosa",
+        "no_barang": 6,
+        "kode_barang": "v7xz",
+        "kode_transaksi": "fbjn",
+        "jumlah": 1
+    },
+    {
+        "tgl_pembelian": "Thu Apr 28 14:51:57 2022",
+        "nama_pembeli": "Dhiya Syauqi",
+        "no_barang": 2,
+        "kode_barang": "bdre",
+        "kode_transaksi": "wzes",
+        "jumlah": 1
+    },
+    {
+        "tgl_pembelian": "Thu Apr 28 14:53:46 2022",
+        "nama_pembeli": "Rahmad Sentosa",
+        "no_barang": 2,
+        "kode_barang": "bdre",
+        "kode_transaksi": "s4c0",
+        "jumlah": 1
+    },
+    {
+        "tgl_pembelian": "Thu Apr 28 14:56:04 2022",
+        "nama_pembeli": "Rahmad Sentosa",
+        "no_barang": 1,
+        "kode_barang": "zuc0",
+        "kode_transaksi": "13uv",
+        "jumlah": 2
+    },
+    {
+        "tgl_pembelian": "Thu Apr 28 15:03:22 2022",
+        "nama_pembeli": "daiva",
+        "no_barang": 5,
+        "kode_barang": "shz0",
+        "kode_transaksi": "97ev",
+        "jumlah": 1
+    },
+    {
+        "tgl_pembelian": "Fri Dec 23 19:13:30 2022",
+        "nama_pembeli": "Raihan",
+        "no_barang": 3,
+        "kode_barang": "2sax",
+        "kode_transaksi": "xlks",
+        "jumlah": 1
+    }
+]
